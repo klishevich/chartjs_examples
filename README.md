@@ -39,3 +39,5 @@ ticks: {
 
 Yes using stepSize one can change label frequency.
 GridLine can be styled - https://www.chartjs.org/docs/latest/axes/styling.html#grid-line-configuration
+
+However there is no way to style gridBands.
